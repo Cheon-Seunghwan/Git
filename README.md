@@ -30,3 +30,5 @@
   git status
 3. 연결 삭제
   git remote remove origin 
+4. 브랜치 변경
+  git branch -m [현재 branch name] [바꾸고싶은 branch name]
