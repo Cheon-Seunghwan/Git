@@ -21,6 +21,7 @@
   git add . - 변경 사항 확인
   git commit -m "커밋 이름"
   git push origin master
+8. 
   과거의 커밋에 상관없이 현재의 커밋으로 덮어쓰기 가능
   git push origin master --force
 
