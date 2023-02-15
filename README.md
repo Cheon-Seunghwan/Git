@@ -15,7 +15,7 @@
 4. 깃 연결
   git remote add origin 저장소 링크
 5. push
-  git push origin master
+  git push origin master (main)
 6. 이름/토큰 입력
 7. 업데이트 - git init 필요 없음
   git add . - 변경 사항 확인
